@@ -1,0 +1,12 @@
+{
+  "siren": {
+    "category": "master",
+    "subtitle": "subtitles.milkshake.siren",
+    "sounds": [
+      {
+        "name": "milkshake:siren",
+        "stream": true
+      }
+    ]
+  }
+}
